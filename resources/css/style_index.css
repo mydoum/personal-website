@@ -42,3 +42,13 @@ body {
 a:hover, a:visited, a:link, a:active {
     color: grey;
 }
+
+.fa-style {
+    color: #FFF;
+    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+}
+
+.fa-style:hover {
+    color: #00C5DB;
+}
