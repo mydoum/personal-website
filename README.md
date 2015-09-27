@@ -2,4 +2,4 @@
 
 A simple website in html-css with some fun animations.
 
-Here is an example of the website : http://alonsogiraldo.com
+Here is a [demo]:http://alonsogiraldo.com of the website
